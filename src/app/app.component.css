@@ -1,0 +1,10 @@
+#search{
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+.card{
+    width: 19rem;
+    margin: 10px;
+}
